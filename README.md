@@ -1,4 +1,4 @@
-#Waste_ Management
+Waste_ Management
 
 Summative lab: an integrated assistant that identifies waste from images or text descriptions and
 returns recycling instructions grounded in city policy documents.
